@@ -1,2 +1,2 @@
-# SMU_Homework
+# GeMuela_Homework
 My Homework Portfolio
